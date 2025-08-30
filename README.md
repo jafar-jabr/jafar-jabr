@@ -4,7 +4,7 @@ I'm a software developer focused on React Native, React.js, Node.js and python.
 
 ## 🛠 Technologies & Tools
 
-- 🔧 React Native, TypeScript, Swift, Kotlin
+- 🔧 React Native, React.js, TypeScript, Swift, Kotlin
 - ⚙️ OpenCV, TensorFlow, MLKit
 
 ## 📈 GitHub Stats
