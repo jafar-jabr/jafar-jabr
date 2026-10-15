@@ -1,58 +1,40 @@
-# Hi, I'm Jafar Jabr 👋
+# Hi, I'm Jafar 👋
 
-### Senior Software Engineer · Technical Lead · Full-Stack Engineering
+I'm a software engineer based in Bucharest. I enjoy building things from end to end—web applications, backend services, mobile apps, and the infrastructure behind them.
 
-I'm a software engineer and technical lead with **10+ years of experience** building and delivering applications across **web, backend, mobile, and cloud**. My work spans SaaS, healthcare, fintech, Web3, and media streaming.
+I work with **TypeScript, JavaScript, Python, and PHP**, and I like figuring out how all the pieces fit together. These days, I'm also exploring practical ways to bring **AI and LLMs** into products and development workflows.
 
-I work across the full software lifecycle—from architecture, APIs, databases, and authentication to user interfaces, cloud infrastructure, CI/CD, and production delivery. I've led engineering teams of **up to 12 developers**, and I enjoy solving complex problems, improving engineering practices, and mentoring developers.
+## 🛠️ What I work with
 
-My core stack includes **TypeScript, JavaScript, React, Node.js, Python, and PHP/Symfony**. I also bring **9+ years of React Native experience**, alongside hands-on work with **LLM integrations, AI-assisted development, and machine learning experiments**.
+- **Web:** React, TypeScript, JavaScript, Vite
+- **Backend:** Node.js, Express, Python, FastAPI, Flask, PHP, Symfony, REST APIs
+- **Databases:** PostgreSQL, MySQL, Firebase
+- **Mobile:** React Native, Expo, Swift, Kotlin
+- **Cloud & DevOps:** AWS, Google Cloud, Docker, GitHub Actions, CI/CD
+- **AI & Computer Vision:** LLM APIs, PyTorch, TensorFlow, OpenCV
 
-📍 Bucharest, Romania · [LinkedIn](https://www.linkedin.com/in/jafar-jabr/) · [Email](mailto:jafar.jabr.dev@gmail.com)
+## 🚀 A few projects
 
-## 🛠️ Technical Expertise
+### [Confera](https://confera.info)
+An academic conference platform covering submissions, peer review, event management, and payments. Built with React, TypeScript, Python/FastAPI, PostgreSQL, and AWS.
 
-| Area | Technologies & Practices |
-| --- | --- |
-| **Languages** | TypeScript, JavaScript, Python, PHP, SQL, Kotlin, Swift, Java |
-| **Frontend** | React, Vite, HTML, CSS, component architecture, state management |
-| **Backend & APIs** | Node.js, Express, FastAPI, Flask, Django, Symfony, REST, GraphQL, API design, authentication |
-| **Databases** | PostgreSQL, MySQL, Firebase Firestore, data modeling, migrations |
-| **Cloud & DevOps** | AWS (EC2, S3), Google Cloud, Firebase, Azure, Docker, Vercel, GitHub Actions, CI/CD |
-| **Mobile** | React Native, Expo, native integrations, iOS/Android build and release engineering |
-| **AI & ML** | OpenAI/LLM APIs, agentic development workflows, PyTorch, TensorFlow, OpenCV, computer vision |
-| **Engineering Leadership** | System architecture, technical planning, code reviews, mentoring, engineering standards |
+### ISAP
+A mobile app with a Python/Flask backend for users, posts, files, and locations. Built with React Native, MySQL, and Firebase.
 
-## 🚀 Selected Projects
+### [Symfony Guarded Authentication Bundle](https://github.com/jafar-jabr/guarded-authentication-bundle)
+An open-source PHP/Symfony package for form and API authentication using signed tokens.
 
-### [Confera](https://confera.info) — Academic Conference Management
-**React · TypeScript · Python/FastAPI · PostgreSQL · AWS · Stripe**
+### Python & Computer Vision
+Some of my experiments with face recognition and neural style transfer:
 
-A full-stack platform for conference administration, submissions, peer review, roles and permissions, payments, and notifications. Work spans frontend and backend architecture, API design, security, and deployment.
+[Face Recognition](https://github.com/jafar-jabr/face-recognition) · [Neural Style Transfer](https://github.com/jafar-jabr/style_transfer)
 
-[Frontend repository](https://github.com/confera-info/confera-react-js) · [Backend repository](https://github.com/confera-info/confera-api)
+## 📫 Find me
 
-### ISAP — Mobile App & Backend Platform
-**React Native · Python/Flask · MySQL · Firebase**
+[LinkedIn](https://www.linkedin.com/in/jafar-jabr/) · [Email](mailto:jafar.jabr.dev@gmail.com)
 
-A mobile application backed by a modular Python API handling authentication, users, posts, files, and locations.
-
-[Mobile repository](https://github.com/jafar-jabr/isap-native) · [Backend repository](https://github.com/jafar-jabr/isap_server)
-
-### [Symfony Guarded Authentication Bundle](https://github.com/jafar-jabr/guarded-authentication-bundle) — Open Source
-**PHP · Symfony · JWT/JWS · Authentication**
-
-An open-source Symfony bundle for form-based and API authentication, including signed tokens and supporting documentation.
-
-### Applied AI & Computer Vision
-**Python · PyTorch · OpenCV**
-
-Hands-on experiments and applications covering image processing, face recognition, and neural style transfer.
-
-[Face recognition](https://github.com/jafar-jabr/face-recognition) · [Neural style transfer](https://github.com/jafar-jabr/style_transfer)
-
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jafar-jabr&show_icons=true&theme=radical" alt="Jafar Jabr's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jafar-jabr&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
