@@ -8,7 +8,7 @@ I work with **TypeScript, JavaScript, Python, and PHP**, and I like figuring out
 
 - **Web:** React, TypeScript, JavaScript, Vite
 - **Backend:** Node.js, Express, Python, FastAPI, Flask, PHP, Symfony, REST APIs
-- **Databases:** PostgreSQL, MySQL, Firebase
+- **Databases:** PostgreSQL, MySQL, MariaDB
 - **Mobile:** React Native, Expo, Swift, Kotlin
 - **Cloud & DevOps:** AWS, Google Cloud, Docker, GitHub Actions, CI/CD
 - **AI & Computer Vision:** LLM APIs, PyTorch, TensorFlow, OpenCV
